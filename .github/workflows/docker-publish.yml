@@ -27,5 +27,5 @@ jobs:
         with:
           push: true
           platforms: linux/amd64,linux/arm64
-          tags: mydockeruser/myapp:latest
+          tags: jin00000/myapp:latest
 
